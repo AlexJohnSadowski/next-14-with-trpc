@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704415446574,
+      "tag": "0000_watery_silhouette",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704415468924,
+      "tag": "0001_flaky_princess_powerful",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704415514523,
+      "tag": "0002_cooing_northstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1704415576223,
+      "tag": "0003_easy_power_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1704417259878,
+      "tag": "0004_gigantic_crusher_hogan",
+      "breakpoints": true
+    }
+  ]
+}
