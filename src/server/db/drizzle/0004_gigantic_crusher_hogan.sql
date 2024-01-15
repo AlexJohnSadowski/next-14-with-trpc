@@ -1,1 +1,0 @@
-ALTER TABLE `todos` MODIFY COLUMN `id` varchar(36) NOT NULL;
